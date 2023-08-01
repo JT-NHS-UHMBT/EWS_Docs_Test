@@ -24,7 +24,7 @@ website:
     collapse-below: lg
     left:
       - text: "quarto-nhs-theme"
-        icon: "box-seam"
+        icon: "cone"
         href: index.qmd
       - text: "Tutorials"
         icon: "bookmark-check"
@@ -79,7 +79,7 @@ website:
         file: about.qmd
   comments:
     giscus:
-      repo: nhs-r-community/quarto-nhs-theme
+      repo: JT-NHS-UHMBT/EWS_Docs_Test
 format:
   html:
     toc: true
